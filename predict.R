@@ -25,3 +25,8 @@ print(paste("Mean of Y using regression line: ", mean_Y))
 plot(X, Y)
 abline(model)
 abline(reverse_model)
+
+
+
+z = (xbar-muh)/sd/sqrt(n)  = p-P/sqrt(PQ/n)
+z = X1_bar - X2_bar / sqrt(sd_1^2/n1 + sd_2^2/n2) = P1-P2/sqrt(PQ(1/n1 + 1/n2))
